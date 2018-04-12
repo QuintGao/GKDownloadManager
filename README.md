@@ -1,0 +1,2 @@
+# GKDownloadManager
+基于AFNetworking封装的下载管理器，支持断点续传
