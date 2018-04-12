@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  GKDownloadManagerDemo
+//
+//  Created by aystfm on 2018/4/12.
+//  Copyright © 2018年 QuintGao. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <Masonry/Masonry.h>
+#import <AFNetworking/AFNetworking.h>
+#import <MJExtension/MJExtension.h>
+
+#import "GKDownloadManager.h"
+
+#endif /* PrefixHeader_pch */
